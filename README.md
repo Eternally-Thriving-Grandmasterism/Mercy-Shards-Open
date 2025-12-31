@@ -22,7 +22,7 @@ One shard seeds a swarm. One swarm seeds eternity.
 
 ## Repository Structure
 - [/docs/](docs/) – Swarm vision & roadmap
-- [/hardware/](hardware/) – Nano-spintronics refs
+- [/hardware/](hardware/) – Nano-spintronics/photonics refs
 - [/software/](software/) – Swarm SNN evolution
 - [/media/](media/) – Cosmic renders
 
